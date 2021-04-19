@@ -1,0 +1,1094 @@
+com/shabinder/jaudiotagger/tag/wav/WavTag.java
+ com.shabinder.jaudiotagger.tag.wav.WavTag
+ com.shabinder.jaudiotagger.tag.wav.WavTag$1
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTOLY.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTOLY
+com/shabinder/jaudiotagger/tag/id3/ID3TextEncodingConversion.java
+ com.shabinder.jaudiotagger.tag.id3.ID3TextEncodingConversion
+com/shabinder/jaudiotagger/tag/images/AndroidArtwork.java
+ com.shabinder.jaudiotagger.tag.images.AndroidArtwork
+com/shabinder/jaudiotagger/audio/asf/io/ChunkHeaderReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.ChunkHeaderReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTPE1.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTPE1
+com/shabinder/jaudiotagger/tag/asf/AsfTagField.java
+ com.shabinder.jaudiotagger.tag.asf.AsfTagField
+com/shabinder/jaudiotagger/audio/wav/WavFileReader.java
+ com.shabinder.jaudiotagger.audio.wav.WavFileReader
+ com.shabinder.jaudiotagger.audio.wav.WavFileReader$1
+com/shabinder/jaudiotagger/audio/wav/WavTagReader.java
+ com.shabinder.jaudiotagger.audio.wav.WavTagReader
+ com.shabinder.jaudiotagger.audio.wav.WavTagReader$1
+com/shabinder/jaudiotagger/tag/id3/valuepair/ID3NumberTotalFields.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.ID3NumberTotalFields
+com/shabinder/jaudiotagger/audio/dsf/Dsf.java
+ com.shabinder.jaudiotagger.audio.dsf.Dsf
+com/shabinder/jaudiotagger/tag/mp4/atom/Mp4DataBox.java
+ com.shabinder.jaudiotagger.tag.mp4.atom.Mp4DataBox
+com/shabinder/jaudiotagger/tag/id3/ID3v23Tag.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v23Tag
+com/shabinder/jaudiotagger/tag/aiff/AiffTagFieldKey.java
+ com.shabinder.jaudiotagger.tag.aiff.AiffTagFieldKey
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyIMG.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyIMG
+com/shabinder/jaudiotagger/audio/asf/io/AsfExtHeaderReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.AsfExtHeaderReader
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataPicture.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockDataPicture
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyLINK.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyLINK
+com/shabinder/jaudiotagger/audio/ogg/util/VorbisPacketType.java
+ com.shabinder.jaudiotagger.audio.ogg.util.VorbisPacketType
+com/shabinder/jaudiotagger/tag/mp4/atom/Mp4RatingValue.java
+ com.shabinder.jaudiotagger.tag.mp4.atom.Mp4RatingValue
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyPOSS.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyPOSS
+com/shabinder/jaudiotagger/tag/InvalidDataTypeException.java
+ com.shabinder.jaudiotagger.tag.InvalidDataTypeException
+com/shabinder/jaudiotagger/tag/vorbiscomment/VorbisCommentCreator.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisCommentCreator
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyEQUA.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyEQUA
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4StcoBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4StcoBox
+com/shabinder/jaudiotagger/audio/asf/io/FullRequestInputStream.java
+ com.shabinder.jaudiotagger.audio.asf.io.FullRequestInputStream
+com/shabinder/jaudiotagger/audio/asf/io/ChunkRemover.java
+ com.shabinder.jaudiotagger.audio.asf.io.ChunkRemover
+com/shabinder/jaudiotagger/audio/AudioFileFilter.java
+ com.shabinder.jaudiotagger.audio.AudioFileFilter
+com/shabinder/jaudiotagger/tag/id3/ID3v24Frames.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v24Frames
+com/shabinder/jaudiotagger/tag/vorbiscomment/util/Base64Coder.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.util.Base64Coder
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4MvhdBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4MvhdBox
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTCMP.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTCMP
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyGRP1.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyGRP1
+com/shabinder/jaudiotagger/tag/mp4/Mp4NonStandardFieldKey.java
+ com.shabinder.jaudiotagger.tag.mp4.Mp4NonStandardFieldKey
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTOAL.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTOAL
+com/shabinder/jaudiotagger/tag/InvalidFrameIdentifierException.java
+ com.shabinder.jaudiotagger.tag.InvalidFrameIdentifierException
+com/shabinder/jaudiotagger/tag/asf/AsfTagBannerField.java
+ com.shabinder.jaudiotagger.tag.asf.AsfTagBannerField
+com/shabinder/jaudiotagger/tag/datatype/StringHashMap.java
+ com.shabinder.jaudiotagger.tag.datatype.StringHashMap
+com/shabinder/jaudiotagger/audio/asf/data/ContentBranding.java
+ com.shabinder.jaudiotagger.audio.asf.data.ContentBranding
+com/shabinder/jaudiotagger/FileConstants.java
+ com.shabinder.jaudiotagger.FileConstants
+com/shabinder/jaudiotagger/audio/generic/AudioFileWriter.java
+ com.shabinder.jaudiotagger.audio.generic.AudioFileWriter
+com/shabinder/jaudiotagger/audio/asf/io/EncodingChunkReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.EncodingChunkReader
+com/shabinder/jaudiotagger/logging/AbstractTagDisplayFormatter.java
+ com.shabinder.jaudiotagger.logging.AbstractTagDisplayFormatter
+com/shabinder/jaudiotagger/audio/mp3/MP3AudioHeader.java
+ com.shabinder.jaudiotagger.audio.mp3.MP3AudioHeader
+com/shabinder/jaudiotagger/utils/tree/MutableTreeNode.java
+ com.shabinder.jaudiotagger.utils.tree.MutableTreeNode
+com/shabinder/jaudiotagger/tag/FieldDataInvalidException.java
+ com.shabinder.jaudiotagger.tag.FieldDataInvalidException
+com/shabinder/jaudiotagger/audio/flac/FlacTagReader.java
+ com.shabinder.jaudiotagger.audio.flac.FlacTagReader
+ com.shabinder.jaudiotagger.audio.flac.FlacTagReader$1
+com/shabinder/jaudiotagger/audio/flac/metadatablock/BlockType.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.BlockType
+com/shabinder/jaudiotagger/tag/Tag.java
+ com.shabinder.jaudiotagger.tag.Tag
+com/shabinder/jaudiotagger/tag/id3/valuepair/V2GenreTypes.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.V2GenreTypes
+com/shabinder/jaudiotagger/audio/exceptions/CannotReadVideoException.java
+ com.shabinder.jaudiotagger.audio.exceptions.CannotReadVideoException
+com/shabinder/jaudiotagger/audio/aiff/chunk/NameChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.NameChunk
+com/shabinder/jaudiotagger/tag/lyrics3/Lyrics3v2.java
+ com.shabinder.jaudiotagger.tag.lyrics3.Lyrics3v2
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TagBinaryField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TagBinaryField
+com/shabinder/jaudiotagger/tag/id3/ID3v24FieldKey.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v24FieldKey
+com/shabinder/jaudiotagger/audio/flac/FlacTagCreator.java
+ com.shabinder.jaudiotagger.audio.flac.FlacTagCreator
+com/shabinder/jaudiotagger/audio/mp4/Mp4AudioHeader.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4AudioHeader
+com/shabinder/jaudiotagger/audio/asf/data/GUID.java
+ com.shabinder.jaudiotagger.audio.asf.data.GUID
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTLEN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTLEN
+com/shabinder/jaudiotagger/utils/tree/TreeModelEvent.java
+ com.shabinder.jaudiotagger.utils.tree.TreeModelEvent
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTDTG.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTDTG
+com/shabinder/jaudiotagger/audio/aiff/ExtDouble.java
+ com.shabinder.jaudiotagger.audio.aiff.ExtDouble
+com/shabinder/jaudiotagger/tag/vorbiscomment/VorbisCommentReader.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisCommentReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyEQU2.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyEQU2
+com/shabinder/jaudiotagger/audio/asf/util/ChunkPositionComparator.java
+ com.shabinder.jaudiotagger.audio.asf.util.ChunkPositionComparator
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4BoxHeader.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4BoxHeader
+com/shabinder/jaudiotagger/tag/id3/reference/MediaMonkeyPlayerRating.java
+ com.shabinder.jaudiotagger.tag.id3.reference.MediaMonkeyPlayerRating
+com/shabinder/jaudiotagger/audio/mp4/atom/NullPadding.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.NullPadding
+com/shabinder/jaudiotagger/audio/aiff/AiffTagReader.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffTagReader
+com/shabinder/jaudiotagger/logging/PlainTextTagDisplayFormatter.java
+ com.shabinder.jaudiotagger.logging.PlainTextTagDisplayFormatter
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTDEN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTDEN
+com/shabinder/jaudiotagger/tag/id3/ID3v1Tag.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v1Tag
+ com.shabinder.jaudiotagger.tag.id3.ID3v1Tag$1
+com/shabinder/jaudiotagger/audio/mp3/MP3FileWriter.java
+ com.shabinder.jaudiotagger.audio.mp3.MP3FileWriter
+com/shabinder/jaudiotagger/tag/id3/valuepair/ID3V2ExtendedGenreTypes.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.ID3V2ExtendedGenreTypes
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyRBUF.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyRBUF
+com/shabinder/jaudiotagger/utils/PrimitiveUtils.java
+ com.shabinder.jaudiotagger.utils.PrimitiveUtils
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4AlacBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4AlacBox
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWPUB.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWPUB
+com/shabinder/jaudiotagger/tag/id3/framebody/AbstractID3v2FrameBody.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.AbstractID3v2FrameBody
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyENCR.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyENCR
+com/shabinder/jaudiotagger/audio/aiff/chunk/AiffChunkSummary.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.AiffChunkSummary
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTMED.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTMED
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTDAT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTDAT
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyXSOT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyXSOT
+com/shabinder/jaudiotagger/audio/aiff/chunk/FormatVersionChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.FormatVersionChunk
+com/shabinder/jaudiotagger/audio/asf/data/Chunk.java
+ com.shabinder.jaudiotagger.audio.asf.data.Chunk
+com/shabinder/jaudiotagger/audio/asf/util/TagConverter.java
+ com.shabinder.jaudiotagger.audio.asf.util.TagConverter
+com/shabinder/jaudiotagger/audio/ogg/util/VorbisIdentificationHeader.java
+ com.shabinder.jaudiotagger.audio.ogg.util.VorbisIdentificationHeader
+com/shabinder/jaudiotagger/audio/wav/chunk/WavFactChunk.java
+ com.shabinder.jaudiotagger.audio.wav.chunk.WavFactChunk
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TagRawBinaryField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TagRawBinaryField
+com/shabinder/jaudiotagger/tag/datatype/StringNullTerminated.java
+ com.shabinder.jaudiotagger.tag.datatype.StringNullTerminated
+com/shabinder/jaudiotagger/audio/generic/GenericAudioHeader.java
+ com.shabinder.jaudiotagger.audio.generic.GenericAudioHeader
+com/shabinder/jaudiotagger/audio/mp4/Mp4AtomIdentifier.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4AtomIdentifier
+com/shabinder/jaudiotagger/audio/wav/chunk/WavFormatChunk.java
+ com.shabinder.jaudiotagger.audio.wav.chunk.WavFormatChunk
+com/shabinder/jaudiotagger/tag/id3/valuepair/ReceivedAsTypes.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.ReceivedAsTypes
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyPCNT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyPCNT
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWPAY.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWPAY
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSIZ.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSIZ
+com/shabinder/jaudiotagger/tag/id3/ID3v2ChapterFrames.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v2ChapterFrames
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4GenreField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4GenreField
+com/shabinder/jaudiotagger/tag/id3/framebody/ID3v24FrameBody.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.ID3v24FrameBody
+com/shabinder/jaudiotagger/tag/id3/ID3v23Frame.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v23Frame
+ com.shabinder.jaudiotagger.tag.id3.ID3v23Frame$EncodingFlags
+ com.shabinder.jaudiotagger.tag.id3.ID3v23Frame$StatusFlags
+com/shabinder/jaudiotagger/tag/datatype/Pair.java
+ com.shabinder.jaudiotagger.tag.datatype.Pair
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTPUB.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTPUB
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWORS.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWORS
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodySYLT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodySYLT
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyCOMM.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyCOMM
+com/shabinder/jaudiotagger/tag/id3/framebody/AbstractFrameBodyPairs.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.AbstractFrameBodyPairs
+com/shabinder/jaudiotagger/audio/iff/ChunkHeader.java
+ com.shabinder.jaudiotagger.audio.iff.ChunkHeader
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyLYR.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyLYR
+com/shabinder/jaudiotagger/audio/mp3/VbriFrame.java
+ com.shabinder.jaudiotagger.audio.mp3.VbriFrame
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyUSLT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyUSLT
+com/shabinder/jaudiotagger/tag/datatype/TextEncodedStringSizeTerminated.java
+ com.shabinder.jaudiotagger.tag.datatype.TextEncodedStringSizeTerminated
+com/shabinder/jaudiotagger/tag/aiff/AiffTag.java
+ com.shabinder.jaudiotagger.tag.aiff.AiffTag
+com/shabinder/jaudiotagger/audio/exceptions/CannotReadException.java
+ com.shabinder.jaudiotagger.audio.exceptions.CannotReadException
+com/shabinder/jaudiotagger/utils/EqualsUtil.java
+ com.shabinder.jaudiotagger.utils.EqualsUtil
+com/shabinder/jaudiotagger/audio/ogg/util/OggInfoReader.java
+ com.shabinder.jaudiotagger.audio.ogg.util.OggInfoReader
+com/shabinder/jaudiotagger/tag/id3/Id3FieldType.java
+ com.shabinder.jaudiotagger.tag.id3.Id3FieldType
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyUnsupported.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyUnsupported
+com/shabinder/jaudiotagger/tag/id3/ID3v23FieldKey.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v23FieldKey
+com/shabinder/jaudiotagger/audio/generic/AudioFileReader2.java
+ com.shabinder.jaudiotagger.audio.generic.AudioFileReader2
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataApplication.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockDataApplication
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyXSOA.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyXSOA
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyINF.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyINF
+com/shabinder/jaudiotagger/audio/aiff/chunk/ApplicationChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.ApplicationChunk
+com/shabinder/jaudiotagger/audio/asf/io/CountingInputStream.java
+ com.shabinder.jaudiotagger.audio.asf.io.CountingInputStream
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTEXT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTEXT
+com/shabinder/jaudiotagger/tag/datatype/StringDate.java
+ com.shabinder.jaudiotagger.tag.datatype.StringDate
+com/shabinder/jaudiotagger/audio/mp4/Mp4FileReader.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4FileReader
+com/shabinder/jaudiotagger/tag/flac/FlacTag.java
+ com.shabinder.jaudiotagger.tag.flac.FlacTag
+ com.shabinder.jaudiotagger.tag.flac.FlacTag$1
+com/shabinder/jaudiotagger/audio/dsf/DsfFileReader.java
+ com.shabinder.jaudiotagger.audio.dsf.DsfFileReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTRCK.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTRCK
+com/shabinder/jaudiotagger/audio/mp4/Mp4TagReader.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4TagReader
+com/shabinder/jaudiotagger/audio/asf/io/MetadataReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.MetadataReader
+com/shabinder/jaudiotagger/tag/id3/reference/MediaPlayerRating.java
+ com.shabinder.jaudiotagger.tag.id3.reference.MediaPlayerRating
+com/shabinder/jaudiotagger/tag/id3/Id3SupportingTag.java
+ com.shabinder.jaudiotagger.tag.id3.Id3SupportingTag
+com/shabinder/jaudiotagger/audio/asf/data/LanguageList.java
+ com.shabinder.jaudiotagger.audio.asf.data.LanguageList
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWOAF.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWOAF
+com/shabinder/jaudiotagger/audio/asf/data/FileHeader.java
+ com.shabinder.jaudiotagger.audio.asf.data.FileHeader
+com/shabinder/jaudiotagger/audio/iff/ChunkSummary.java
+ com.shabinder.jaudiotagger.audio.iff.ChunkSummary
+com/shabinder/jaudiotagger/tag/id3/ID3v24PreferredFrameOrderComparator.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v24PreferredFrameOrderComparator
+com/shabinder/jaudiotagger/audio/aiff/AiffFileReader.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffFileReader
+com/shabinder/jaudiotagger/utils/tree/EventListenerList.java
+ com.shabinder.jaudiotagger.utils.tree.EventListenerList
+com/shabinder/jaudiotagger/tag/reference/ID3V2Version.java
+ com.shabinder.jaudiotagger.tag.reference.ID3V2Version
+com/shabinder/jaudiotagger/tag/id3/AbstractTagItem.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractTagItem
+com/shabinder/jaudiotagger/audio/asf/data/ContentDescription.java
+ com.shabinder.jaudiotagger.audio.asf.data.ContentDescription
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSOA.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSOA
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTMCL.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTMCL
+com/shabinder/jaudiotagger/audio/wav/chunk/WavListChunk.java
+ com.shabinder.jaudiotagger.audio.wav.chunk.WavListChunk
+com/shabinder/jaudiotagger/tag/lyrics3/Lyrics3v1Iterator.java
+ com.shabinder.jaudiotagger.tag.lyrics3.Lyrics3v1Iterator
+com/shabinder/jaudiotagger/utils/tree/TreeModel.java
+ com.shabinder.jaudiotagger.utils.tree.TreeModel
+com/shabinder/jaudiotagger/tag/id3/framebody/AbstractFrameBodyNumberTotal.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.AbstractFrameBodyNumberTotal
+com/shabinder/jaudiotagger/audio/real/RealFileReader.java
+ com.shabinder.jaudiotagger.audio.real.RealFileReader
+com/shabinder/jaudiotagger/tag/id3/AbstractTagFrame.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractTagFrame
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyAUT.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyAUT
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlock.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlock
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyUnsupported.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyUnsupported
+com/shabinder/jaudiotagger/tag/datatype/AbstractDataType.java
+ com.shabinder.jaudiotagger.tag.datatype.AbstractDataType
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyEncrypted.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyEncrypted
+com/shabinder/jaudiotagger/tag/datatype/NumberHashMap.java
+ com.shabinder.jaudiotagger.tag.datatype.NumberHashMap
+com/shabinder/jaudiotagger/tag/id3/AbstractID3v2Tag.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v2Tag
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v2Tag$1
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v2Tag$2
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v2Tag$FrameAndSubId
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataStreamInfo.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockDataStreamInfo
+com/shabinder/jaudiotagger/tag/id3/ID3Unsynchronization.java
+ com.shabinder.jaudiotagger.tag.id3.ID3Unsynchronization
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4FreeBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4FreeBox
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTALB.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTALB
+com/shabinder/jaudiotagger/tag/datatype/PartOfSet.java
+ com.shabinder.jaudiotagger.tag.datatype.PartOfSet
+ com.shabinder.jaudiotagger.tag.datatype.PartOfSet$PartOfSetValue
+com/shabinder/jaudiotagger/tag/datatype/PairedTextEncodedStringNullTerminated.java
+ com.shabinder.jaudiotagger.tag.datatype.PairedTextEncodedStringNullTerminated
+ com.shabinder.jaudiotagger.tag.datatype.PairedTextEncodedStringNullTerminated$ValuePairs
+com/shabinder/jaudiotagger/audio/asf/data/AsfHeader.java
+ com.shabinder.jaudiotagger.audio.asf.data.AsfHeader
+com/shabinder/jaudiotagger/tag/datatype/MultipleTextEncodedStringNullTerminated.java
+ com.shabinder.jaudiotagger.tag.datatype.MultipleTextEncodedStringNullTerminated
+ com.shabinder.jaudiotagger.tag.datatype.MultipleTextEncodedStringNullTerminated$Values
+com/shabinder/jaudiotagger/audio/flac/FlacFileWriter.java
+ com.shabinder.jaudiotagger.audio.flac.FlacFileWriter
+com/shabinder/jaudiotagger/audio/mp3/MPEGFrameHeader.java
+ com.shabinder.jaudiotagger.audio.mp3.MPEGFrameHeader
+com/shabinder/jaudiotagger/tag/datatype/HashMapInterface.java
+ com.shabinder.jaudiotagger.tag.datatype.HashMapInterface
+com/shabinder/jaudiotagger/utils/tree/TreeNode.java
+ com.shabinder.jaudiotagger.utils.tree.TreeNode
+com/shabinder/jaudiotagger/tag/datatype/BooleanString.java
+ com.shabinder.jaudiotagger.tag.datatype.BooleanString
+com/shabinder/jaudiotagger/logging/FileSystemMessage.java
+ com.shabinder.jaudiotagger.logging.FileSystemMessage
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyMVIN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyMVIN
+com/shabinder/jaudiotagger/tag/datatype/AbstractIntStringValuePair.java
+ com.shabinder.jaudiotagger.tag.datatype.AbstractIntStringValuePair
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWCOP.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWCOP
+com/shabinder/jaudiotagger/tag/datatype/Lyrics3Line.java
+ com.shabinder.jaudiotagger.tag.datatype.Lyrics3Line
+com/shabinder/jaudiotagger/tag/id3/valuepair/TextEncoding.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.TextEncoding
+com/shabinder/jaudiotagger/tag/id3/reference/ITunesRating.java
+ com.shabinder.jaudiotagger.tag.id3.reference.ITunesRating
+com/shabinder/jaudiotagger/audio/generic/ModificationHandler.java
+ com.shabinder.jaudiotagger.audio.generic.ModificationHandler
+com/shabinder/jaudiotagger/tag/options/PadNumberOption.java
+ com.shabinder.jaudiotagger.tag.options.PadNumberOption
+com/shabinder/jaudiotagger/tag/id3/valuepair/EventTimingTypes.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.EventTimingTypes
+com/shabinder/jaudiotagger/tag/id3/ID3v22PreferredFrameOrderComparator.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v22PreferredFrameOrderComparator
+com/shabinder/jaudiotagger/audio/asf/data/StreamBitratePropertiesChunk.java
+ com.shabinder.jaudiotagger.audio.asf.data.StreamBitratePropertiesChunk
+com/shabinder/jaudiotagger/tag/id3/ID3v24Tag.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v24Tag
+com/shabinder/jaudiotagger/tag/PaddingException.java
+ com.shabinder.jaudiotagger.tag.PaddingException
+com/shabinder/jaudiotagger/audio/real/RealTag.java
+ com.shabinder.jaudiotagger.audio.real.RealTag
+com/shabinder/jaudiotagger/audio/asf/io/ChunkContainerReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.ChunkContainerReader
+com/shabinder/jaudiotagger/tag/mp4/atom/Mp4ContentTypeValue.java
+ com.shabinder.jaudiotagger.tag.mp4.atom.Mp4ContentTypeValue
+com/shabinder/jaudiotagger/audio/mp3/XingFrame.java
+ com.shabinder.jaudiotagger.audio.mp3.XingFrame
+com/shabinder/jaudiotagger/tag/id3/AbstractTag.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractTag
+com/shabinder/jaudiotagger/audio/wav/WavInfoReader.java
+ com.shabinder.jaudiotagger.audio.wav.WavInfoReader
+ com.shabinder.jaudiotagger.audio.wav.WavInfoReader$1
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSOC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSOC
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyCOMR.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyCOMR
+com/shabinder/jaudiotagger/audio/exceptions/ModifyVetoException.java
+ com.shabinder.jaudiotagger.audio.exceptions.ModifyVetoException
+com/shabinder/jaudiotagger/audio/wav/WavSaveOrder.java
+ com.shabinder.jaudiotagger.audio.wav.WavSaveOrder
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTPOS.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTPOS
+com/shabinder/jaudiotagger/audio/asf/AsfFileReader.java
+ com.shabinder.jaudiotagger.audio.asf.AsfFileReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyASPI.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyASPI
+com/shabinder/jaudiotagger/audio/flac/FlacAudioHeader.java
+ com.shabinder.jaudiotagger.audio.flac.FlacAudioHeader
+com/shabinder/jaudiotagger/tag/id3/ID3v1Iterator.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v1Iterator
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyMLLT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyMLLT
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWXXX.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWXXX
+com/shabinder/jaudiotagger/audio/asf/io/AsfStreamer.java
+ com.shabinder.jaudiotagger.audio.asf.io.AsfStreamer
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyETT.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyETT
+com/shabinder/jaudiotagger/tag/id3/AbstractID3Tag.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3Tag
+com/shabinder/jaudiotagger/audio/aiff/chunk/CopyrightChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.CopyrightChunk
+com/shabinder/jaudiotagger/audio/mp3/MP3FileReader.java
+ com.shabinder.jaudiotagger.audio.mp3.MP3FileReader
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4FtypBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4FtypBox
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4FtypBox$Brand
+com/shabinder/jaudiotagger/audio/generic/AudioFileModificationAdapter.java
+ com.shabinder.jaudiotagger.audio.generic.AudioFileModificationAdapter
+com/shabinder/jaudiotagger/tag/datatype/AbstractString.java
+ com.shabinder.jaudiotagger.tag.datatype.AbstractString
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSOT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSOT
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyPOPM.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyPOPM
+com/shabinder/jaudiotagger/tag/datatype/ByteArraySizeTerminated.java
+ com.shabinder.jaudiotagger.tag.datatype.ByteArraySizeTerminated
+com/shabinder/jaudiotagger/audio/ogg/OggFileWriter.java
+ com.shabinder.jaudiotagger.audio.ogg.OggFileWriter
+com/shabinder/jaudiotagger/tag/id3/AbstractTagFrameBody.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractTagFrameBody
+com/shabinder/jaudiotagger/audio/iff/Chunk.java
+ com.shabinder.jaudiotagger.audio.iff.Chunk
+com/shabinder/jaudiotagger/tag/id3/valuepair/EventTimingTimestampTypes.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.EventTimingTimestampTypes
+com/shabinder/jaudiotagger/tag/reference/ISOCountry.java
+ com.shabinder.jaudiotagger.tag.reference.ISOCountry
+ com.shabinder.jaudiotagger.tag.reference.ISOCountry$Country
+com/shabinder/jaudiotagger/audio/ogg/util/OggPageHeader.java
+ com.shabinder.jaudiotagger.audio.ogg.util.OggPageHeader
+ com.shabinder.jaudiotagger.audio.ogg.util.OggPageHeader$HeaderTypeFlag
+ com.shabinder.jaudiotagger.audio.ogg.util.OggPageHeader$PacketStartAndLength
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TrackField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TrackField
+com/shabinder/jaudiotagger/audio/asf/data/VideoStreamChunk.java
+ com.shabinder.jaudiotagger.audio.asf.data.VideoStreamChunk
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4EsdsBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4EsdsBox
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4EsdsBox$AudioProfile
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4EsdsBox$Kind
+com/shabinder/jaudiotagger/audio/generic/Utils.java
+ com.shabinder.jaudiotagger.audio.generic.Utils
+com/shabinder/jaudiotagger/audio/aiff/chunk/ID3Chunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.ID3Chunk
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4DrmsBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4DrmsBox
+com/shabinder/jaudiotagger/audio/dsf/DsdChunk.java
+ com.shabinder.jaudiotagger.audio.dsf.DsdChunk
+com/shabinder/jaudiotagger/audio/flac/FlacInfoReader.java
+ com.shabinder.jaudiotagger.audio.flac.FlacInfoReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyOWNE.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyOWNE
+com/shabinder/jaudiotagger/audio/AudioFile.java
+ com.shabinder.jaudiotagger.audio.AudioFile
+ com.shabinder.jaudiotagger.audio.AudioFile$1
+com/shabinder/jaudiotagger/audio/ogg/OggVorbisTagReader.java
+ com.shabinder.jaudiotagger.audio.ogg.OggVorbisTagReader
+ com.shabinder.jaudiotagger.audio.ogg.OggVorbisTagReader$OggVorbisHeaderSizes
+com/shabinder/jaudiotagger/audio/exceptions/UnableToCreateFileException.java
+ com.shabinder.jaudiotagger.audio.exceptions.UnableToCreateFileException
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTKEY.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTKEY
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyAENC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyAENC
+com/shabinder/jaudiotagger/tag/wav/WavInfoTag.java
+ com.shabinder.jaudiotagger.tag.wav.WavInfoTag
+com/shabinder/jaudiotagger/audio/aiff/AiffAudioHeader.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffAudioHeader
+ com.shabinder.jaudiotagger.audio.aiff.AiffAudioHeader$Endian
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TagReverseDnsField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TagReverseDnsField
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataPadding.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockDataPadding
+com/shabinder/jaudiotagger/tag/datatype/TCONString.java
+ com.shabinder.jaudiotagger.tag.datatype.TCONString
+com/shabinder/jaudiotagger/audio/asf/io/EncryptionChunkReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.EncryptionChunkReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyCRM.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyCRM
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TagTextField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TagTextField
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTDOR.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTDOR
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTCOM.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTCOM
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4HdlrBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4HdlrBox
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4HdlrBox$MediaDataType
+com/shabinder/jaudiotagger/tag/TagNotFoundException.java
+ com.shabinder.jaudiotagger.tag.TagNotFoundException
+com/shabinder/jaudiotagger/audio/aiff/chunk/AuthorChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.AuthorChunk
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTIT1.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTIT1
+com/shabinder/jaudiotagger/audio/wav/WavFileWriter.java
+ com.shabinder.jaudiotagger.audio.wav.WavFileWriter
+com/shabinder/jaudiotagger/tag/vorbiscomment/VorbisCommentTag.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisCommentTag
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisCommentTag$1
+com/shabinder/jaudiotagger/tag/asf/AsfFieldKey.java
+ com.shabinder.jaudiotagger.tag.asf.AsfFieldKey
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyXSOP.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyXSOP
+com/shabinder/jaudiotagger/tag/id3/valuepair/ImageFormats.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.ImageFormats
+com/shabinder/jaudiotagger/tag/datatype/Lyrics3Image.java
+ com.shabinder.jaudiotagger.tag.datatype.Lyrics3Image
+com/shabinder/jaudiotagger/audio/exceptions/NoReadPermissionsException.java
+ com.shabinder.jaudiotagger.audio.exceptions.NoReadPermissionsException
+com/shabinder/jaudiotagger/audio/ogg/VorbisVersion.java
+ com.shabinder.jaudiotagger.audio.ogg.VorbisVersion
+com/shabinder/jaudiotagger/audio/asf/io/AsfHeaderReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.AsfHeaderReader
+com/shabinder/jaudiotagger/audio/aiff/chunk/CommentsChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.CommentsChunk
+com/shabinder/jaudiotagger/tag/reference/PerformerHelper.java
+ com.shabinder.jaudiotagger.tag.reference.PerformerHelper
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTDLY.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTDLY
+com/shabinder/jaudiotagger/audio/wav/WavChunkType.java
+ com.shabinder.jaudiotagger.audio.wav.WavChunkType
+com/shabinder/jaudiotagger/audio/flac/FlacStreamReader.java
+ com.shabinder.jaudiotagger.audio.flac.FlacStreamReader
+com/shabinder/jaudiotagger/tag/id3/framebody/AbstractFrameBodyUrlLink.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.AbstractFrameBodyUrlLink
+com/shabinder/jaudiotagger/audio/asf/data/EncodingChunk.java
+ com.shabinder.jaudiotagger.audio.asf.data.EncodingChunk
+com/shabinder/jaudiotagger/audio/aiff/chunk/AiffChunkType.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.AiffChunkType
+com/shabinder/jaudiotagger/audio/asf/data/ContainerType.java
+ com.shabinder.jaudiotagger.audio.asf.data.ContainerType
+com/shabinder/jaudiotagger/tag/id3/valuepair/SynchronisedLyricsContentType.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.SynchronisedLyricsContentType
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyEAR.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyEAR
+com/shabinder/jaudiotagger/audio/exceptions/InvalidBoxHeaderException.java
+ com.shabinder.jaudiotagger.audio.exceptions.InvalidBoxHeaderException
+com/shabinder/jaudiotagger/tag/id3/ID3Tags.java
+ com.shabinder.jaudiotagger.tag.id3.ID3Tags
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTMOO.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTMOO
+com/shabinder/jaudiotagger/audio/dsf/ID3Chunk.java
+ com.shabinder.jaudiotagger.audio.dsf.ID3Chunk
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTPRO.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTPRO
+com/shabinder/jaudiotagger/tag/TagField.java
+ com.shabinder.jaudiotagger.tag.TagField
+com/shabinder/jaudiotagger/tag/InvalidTagException.java
+ com.shabinder.jaudiotagger.tag.InvalidTagException
+com/shabinder/jaudiotagger/audio/asf/io/ChunkModifier.java
+ com.shabinder.jaudiotagger.audio.asf.io.ChunkModifier
+com/shabinder/jaudiotagger/audio/asf/io/StreamChunkReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.StreamChunkReader
+com/shabinder/jaudiotagger/tag/id3/ID3v1FieldKey.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v1FieldKey
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodySEEK.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodySEEK
+com/shabinder/jaudiotagger/tag/images/ArtworkFactory.java
+ com.shabinder.jaudiotagger.tag.images.ArtworkFactory
+com/shabinder/jaudiotagger/tag/datatype/Lyrics3TimeStamp.java
+ com.shabinder.jaudiotagger.tag.datatype.Lyrics3TimeStamp
+com/shabinder/jaudiotagger/audio/asf/data/ChunkContainer.java
+ com.shabinder.jaudiotagger.audio.asf.data.ChunkContainer
+com/shabinder/jaudiotagger/audio/aiff/AiffType.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffType
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWOAR.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWOAR
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSST.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSST
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyUSER.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyUSER
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4MetaBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4MetaBox
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTORY.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTORY
+com/shabinder/jaudiotagger/audio/generic/AudioFileReader.java
+ com.shabinder.jaudiotagger.audio.generic.AudioFileReader
+com/shabinder/jaudiotagger/tag/id3/valuepair/InterpolationTypes.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.InterpolationTypes
+com/shabinder/jaudiotagger/tag/vorbiscomment/VorbisAlbumArtistReadOptions.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisAlbumArtistReadOptions
+com/shabinder/jaudiotagger/tag/id3/ID3v11Tag.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v11Tag
+ com.shabinder.jaudiotagger.tag.id3.ID3v11Tag$1
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSSE.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSSE
+com/shabinder/jaudiotagger/audio/asf/io/LanguageListReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.LanguageListReader
+com/shabinder/jaudiotagger/tag/id3/ID3Compression.java
+ com.shabinder.jaudiotagger.tag.id3.ID3Compression
+com/shabinder/jaudiotagger/audio/asf/data/EncryptionChunk.java
+ com.shabinder.jaudiotagger.audio.asf.data.EncryptionChunk
+com/shabinder/jaudiotagger/audio/generic/AbstractTag.java
+ com.shabinder.jaudiotagger.audio.generic.AbstractTag
+ com.shabinder.jaudiotagger.audio.generic.AbstractTag$1
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyAPIC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyAPIC
+com/shabinder/jaudiotagger/audio/wav/WavRIFFHeader.java
+ com.shabinder.jaudiotagger.audio.wav.WavRIFFHeader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTOFN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTOFN
+com/shabinder/jaudiotagger/tag/mp4/atom/Mp4MeanBox.java
+ com.shabinder.jaudiotagger.tag.mp4.atom.Mp4MeanBox
+com/shabinder/jaudiotagger/tag/lyrics3/Lyrics3v2Field.java
+ com.shabinder.jaudiotagger.tag.lyrics3.Lyrics3v2Field
+com/shabinder/jaudiotagger/tag/TagOptionSingleton.java
+ com.shabinder.jaudiotagger.tag.TagOptionSingleton
+com/shabinder/jaudiotagger/tag/id3/valuepair/StandardIPLSKey.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.StandardIPLSKey
+com/shabinder/jaudiotagger/audio/aiff/chunk/CommonChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.CommonChunk
+com/shabinder/jaudiotagger/audio/aiff/chunk/AiffChunkReader.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.AiffChunkReader
+com/shabinder/jaudiotagger/tag/id3/valuepair/MusicianCredits.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.MusicianCredits
+com/shabinder/jaudiotagger/audio/exceptions/NullBoxIdException.java
+ com.shabinder.jaudiotagger.audio.exceptions.NullBoxIdException
+com/shabinder/jaudiotagger/audio/dsf/DsfFileWriter.java
+ com.shabinder.jaudiotagger.audio.dsf.DsfFileWriter
+com/shabinder/jaudiotagger/tag/datatype/EventTimingCodeList.java
+ com.shabinder.jaudiotagger.tag.datatype.EventTimingCodeList
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTRDA.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTRDA
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTXXX.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTXXX
+com/shabinder/jaudiotagger/audio/asf/io/ContentBrandingReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.ContentBrandingReader
+com/shabinder/jaudiotagger/tag/mp4/atom/Mp4NameBox.java
+ com.shabinder.jaudiotagger.tag.mp4.atom.Mp4NameBox
+com/shabinder/jaudiotagger/audio/mp4/atom/AbstractMp4Box.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.AbstractMp4Box
+com/shabinder/jaudiotagger/audio/aiff/chunk/AnnotationChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.AnnotationChunk
+com/shabinder/jaudiotagger/audio/asf/data/MetadataContainer.java
+ com.shabinder.jaudiotagger.audio.asf.data.MetadataContainer
+ com.shabinder.jaudiotagger.audio.asf.data.MetadataContainer$DescriptorPointer
+com/shabinder/jaudiotagger/audio/asf/io/ChunkReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.ChunkReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTRSO.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTRSO
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyIND.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyIND
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTIME.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTIME
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTOWN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTOWN
+com/shabinder/jaudiotagger/tag/datatype/AbstractValuePair.java
+ com.shabinder.jaudiotagger.tag.datatype.AbstractValuePair
+com/shabinder/jaudiotagger/tag/id3/ID3v22Frame.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v22Frame
+com/shabinder/jaudiotagger/audio/exceptions/InvalidAudioFrameException.java
+ com.shabinder.jaudiotagger.audio.exceptions.InvalidAudioFrameException
+com/shabinder/jaudiotagger/utils/tree/DefaultTreeModel.java
+ com.shabinder.jaudiotagger.utils.tree.DefaultTreeModel
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyRVAD.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyRVAD
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTIT3.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTIT3
+com/shabinder/jaudiotagger/tag/reference/MusicalKey.java
+ com.shabinder.jaudiotagger.tag.reference.MusicalKey
+com/shabinder/jaudiotagger/audio/ogg/util/VorbisHeader.java
+ com.shabinder.jaudiotagger.audio.ogg.util.VorbisHeader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyUFID.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyUFID
+com/shabinder/jaudiotagger/audio/asf/io/WriteableChunk.java
+ com.shabinder.jaudiotagger.audio.asf.io.WriteableChunk
+com/shabinder/jaudiotagger/tag/id3/AbstractID3v1Tag.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v1Tag
+com/shabinder/jaudiotagger/tag/id3/valuepair/ChannelTypes.java
+ com.shabinder.jaudiotagger.tag.id3.valuepair.ChannelTypes
+com/shabinder/jaudiotagger/utils/tree/TreeModelListener.java
+ com.shabinder.jaudiotagger.utils.tree.TreeModelListener
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodySYTC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodySYTC
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyRVA2.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyRVA2
+com/shabinder/jaudiotagger/tag/asf/AsfTagCoverField.java
+ com.shabinder.jaudiotagger.tag.asf.AsfTagCoverField
+com/shabinder/jaudiotagger/audio/ogg/OggVorbisTagWriter.java
+ com.shabinder.jaudiotagger.audio.ogg.OggVorbisTagWriter
+com/shabinder/jaudiotagger/tag/mp4/Mp4Tag.java
+ com.shabinder.jaudiotagger.tag.mp4.Mp4Tag
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTPE3.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTPE3
+com/shabinder/jaudiotagger/utils/FileTypeUtil.java
+ com.shabinder.jaudiotagger.utils.FileTypeUtil
+com/shabinder/jaudiotagger/audio/asf/io/ModificationResult.java
+ com.shabinder.jaudiotagger.audio.asf.io.ModificationResult
+com/shabinder/jaudiotagger/tag/id3/ID3v23Frames.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v23Frames
+com/shabinder/jaudiotagger/tag/vorbiscomment/VorbisCommentTagField.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisCommentTagField
+com/shabinder/jaudiotagger/audio/aiff/AiffFileHeader.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffFileHeader
+com/shabinder/jaudiotagger/tag/lyrics3/Lyrics3v1.java
+ com.shabinder.jaudiotagger.tag.lyrics3.Lyrics3v1
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyGEOB.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyGEOB
+com/shabinder/jaudiotagger/tag/datatype/SynchronisedTempoCodeList.java
+ com.shabinder.jaudiotagger.tag.datatype.SynchronisedTempoCodeList
+com/shabinder/jaudiotagger/tag/reference/Languages.java
+ com.shabinder.jaudiotagger.tag.reference.Languages
+com/shabinder/jaudiotagger/tag/id3/framebody/ID3v22FrameBody.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.ID3v22FrameBody
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyIPLS.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyIPLS
+com/shabinder/jaudiotagger/audio/ogg/OggFileReader.java
+ com.shabinder.jaudiotagger.audio.ogg.OggFileReader
+com/shabinder/jaudiotagger/tag/id3/framebody/AbstractFrameBodyTextInfo.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.AbstractFrameBodyTextInfo
+com/shabinder/jaudiotagger/tag/id3/AggregatedFrame.java
+ com.shabinder.jaudiotagger.tag.id3.AggregatedFrame
+com/shabinder/jaudiotagger/audio/wav/chunk/WavId3Chunk.java
+ com.shabinder.jaudiotagger.audio.wav.chunk.WavId3Chunk
+com/shabinder/jaudiotagger/audio/AudioHeader.java
+ com.shabinder.jaudiotagger.audio.AudioHeader
+com/shabinder/jaudiotagger/audio/generic/GenericTag.java
+ com.shabinder.jaudiotagger.audio.generic.GenericTag
+ com.shabinder.jaudiotagger.audio.generic.GenericTag$GenericTagTextField
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TagCoverField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TagCoverField
+com/shabinder/jaudiotagger/audio/aiff/chunk/SoundChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.SoundChunk
+com/shabinder/jaudiotagger/audio/generic/AudioFileWriter2.java
+ com.shabinder.jaudiotagger.audio.generic.AudioFileWriter2
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTDRL.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTDRL
+com/shabinder/jaudiotagger/tag/datatype/DataTypes.java
+ com.shabinder.jaudiotagger.tag.datatype.DataTypes
+com/shabinder/jaudiotagger/tag/InvalidFrameException.java
+ com.shabinder.jaudiotagger.tag.InvalidFrameException
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTBPM.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTBPM
+com/shabinder/jaudiotagger/tag/KeyNotFoundException.java
+ com.shabinder.jaudiotagger.tag.KeyNotFoundException
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyCHAP.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyCHAP
+com/shabinder/jaudiotagger/tag/lyrics3/Lyrics3v2Fields.java
+ com.shabinder.jaudiotagger.tag.lyrics3.Lyrics3v2Fields
+com/shabinder/jaudiotagger/audio/wav/chunk/WavChunkSummary.java
+ com.shabinder.jaudiotagger.audio.wav.chunk.WavChunkSummary
+com/shabinder/jaudiotagger/tag/mp4/Mp4TagField.java
+ com.shabinder.jaudiotagger.tag.mp4.Mp4TagField
+com/shabinder/jaudiotagger/tag/id3/ID3v24Frame.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v24Frame
+ com.shabinder.jaudiotagger.tag.id3.ID3v24Frame$EncodingFlags
+ com.shabinder.jaudiotagger.tag.id3.ID3v24Frame$StatusFlags
+com/shabinder/jaudiotagger/tag/lyrics3/AbstractLyrics3v2FieldFrameBody.java
+ com.shabinder.jaudiotagger.tag.lyrics3.AbstractLyrics3v2FieldFrameBody
+com/shabinder/jaudiotagger/tag/datatype/StringSizeTerminated.java
+ com.shabinder.jaudiotagger.tag.datatype.StringSizeTerminated
+com/shabinder/jaudiotagger/tag/id3/ID3SyncSafeInteger.java
+ com.shabinder.jaudiotagger.tag.id3.ID3SyncSafeInteger
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4DiscNoField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4DiscNoField
+com/shabinder/jaudiotagger/tag/datatype/BooleanByte.java
+ com.shabinder.jaudiotagger.tag.datatype.BooleanByte
+com/shabinder/jaudiotagger/tag/id3/TyerTdatAggregatedFrame.java
+ com.shabinder.jaudiotagger.tag.id3.TyerTdatAggregatedFrame
+com/shabinder/jaudiotagger/audio/exceptions/ReadOnlyFileException.java
+ com.shabinder.jaudiotagger.audio.exceptions.ReadOnlyFileException
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4Mp4aBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4Mp4aBox
+com/shabinder/jaudiotagger/tag/vorbiscomment/VorbisCommentFieldKey.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisCommentFieldKey
+com/shabinder/jaudiotagger/utils/tree/TreePath.java
+ com.shabinder.jaudiotagger.utils.tree.TreePath
+com/shabinder/jaudiotagger/audio/wav/WavTagWriter.java
+ com.shabinder.jaudiotagger.audio.wav.WavTagWriter
+ com.shabinder.jaudiotagger.audio.wav.WavTagWriter$BothTagsFileStructure
+ com.shabinder.jaudiotagger.audio.wav.WavTagWriter$InfoFieldWriterOrderComparator
+com/shabinder/jaudiotagger/tag/images/Artwork.java
+ com.shabinder.jaudiotagger.tag.images.Artwork
+com/shabinder/jaudiotagger/audio/mp3/LameFrame.java
+ com.shabinder.jaudiotagger.audio.mp3.LameFrame
+com/shabinder/jaudiotagger/audio/wav/WavSaveOptions.java
+ com.shabinder.jaudiotagger.audio.wav.WavSaveOptions
+com/shabinder/jaudiotagger/audio/generic/AbstractTagCreator.java
+ com.shabinder.jaudiotagger.audio.generic.AbstractTagCreator
+com/shabinder/jaudiotagger/tag/datatype/TextEncodedStringNullTerminated.java
+ com.shabinder.jaudiotagger.tag.datatype.TextEncodedStringNullTerminated
+com/shabinder/jaudiotagger/audio/exceptions/NoWritePermissionsException.java
+ com.shabinder.jaudiotagger.audio.exceptions.NoWritePermissionsException
+com/shabinder/jaudiotagger/audio/dsf/DsfChunkType.java
+ com.shabinder.jaudiotagger.audio.dsf.DsfChunkType
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSO2.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSO2
+com/shabinder/jaudiotagger/tag/datatype/NumberVariableLength.java
+ com.shabinder.jaudiotagger.tag.datatype.NumberVariableLength
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyDeprecated.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyDeprecated
+com/shabinder/jaudiotagger/tag/EmptyFrameException.java
+ com.shabinder.jaudiotagger.tag.EmptyFrameException
+com/shabinder/jaudiotagger/audio/asf/io/AsfExtHeaderModifier.java
+ com.shabinder.jaudiotagger.audio.asf.io.AsfExtHeaderModifier
+com/shabinder/jaudiotagger/audio/asf/data/GUIDFormatException.java
+ com.shabinder.jaudiotagger.audio.asf.data.GUIDFormatException
+com/shabinder/jaudiotagger/audio/exceptions/CannotWriteException.java
+ com.shabinder.jaudiotagger.audio.exceptions.CannotWriteException
+com/shabinder/jaudiotagger/tag/id3/framebody/ID3v23FrameBody.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.ID3v23FrameBody
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyMVNM.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyMVNM
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyPIC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyPIC
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSRC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSRC
+com/shabinder/jaudiotagger/utils/DirectByteBufferUtils.java
+ com.shabinder.jaudiotagger.utils.DirectByteBufferUtils
+ com.shabinder.jaudiotagger.utils.DirectByteBufferUtils$AndroidReleaseStrategy
+ com.shabinder.jaudiotagger.utils.DirectByteBufferUtils$OpenJdkReleaseStrategy
+ com.shabinder.jaudiotagger.utils.DirectByteBufferUtils$ReleaseStrategy
+ com.shabinder.jaudiotagger.utils.DirectByteBufferUtils$UnsupportedJvmReleaseStrategy
+com/shabinder/jaudiotagger/audio/mp3/MP3File.java
+ com.shabinder.jaudiotagger.audio.mp3.MP3File
+com/shabinder/jaudiotagger/tag/id3/AbstractID3v2Frame.java
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v2Frame
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v2Frame$EncodingFlags
+ com.shabinder.jaudiotagger.tag.id3.AbstractID3v2Frame$StatusFlags
+com/shabinder/jaudiotagger/audio/generic/TagWriter.java
+ com.shabinder.jaudiotagger.audio.generic.TagWriter
+com/shabinder/jaudiotagger/tag/reference/PictureTypes.java
+ com.shabinder.jaudiotagger.tag.reference.PictureTypes
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTYER.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTYER
+com/shabinder/jaudiotagger/tag/id3/framebody/ID3v2ChapterFrameBody.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.ID3v2ChapterFrameBody
+com/shabinder/jaudiotagger/audio/asf/data/AsfExtendedHeader.java
+ com.shabinder.jaudiotagger.audio.asf.data.AsfExtendedHeader
+com/shabinder/jaudiotagger/audio/asf/io/CountingOutputstream.java
+ com.shabinder.jaudiotagger.audio.asf.io.CountingOutputstream
+com/shabinder/jaudiotagger/audio/aiff/AiffFileWriter.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffFileWriter
+com/shabinder/jaudiotagger/tag/TagException.java
+ com.shabinder.jaudiotagger.tag.TagException
+com/shabinder/jaudiotagger/logging/XMLTagDisplayFormatter.java
+ com.shabinder.jaudiotagger.logging.XMLTagDisplayFormatter
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TagTextNumberField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TagTextNumberField
+com/shabinder/jaudiotagger/audio/asf/io/ContentDescriptionReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.ContentDescriptionReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTDRC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTDRC
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTCON.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTCON
+com/shabinder/jaudiotagger/StandardCharsets.java
+ com.shabinder.jaudiotagger.StandardCharsets
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTOPE.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTOPE
+com/shabinder/jaudiotagger/audio/mp4/EncoderType.java
+ com.shabinder.jaudiotagger.audio.mp4.EncoderType
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4TagByteField.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4TagByteField
+com/shabinder/jaudiotagger/audio/mp4/Mp4TagWriter.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4TagWriter
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyGRID.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyGRID
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTPE2.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTPE2
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockHeader.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockHeader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTSOP.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTSOP
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTCOP.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTCOP
+com/shabinder/jaudiotagger/audio/ogg/util/VorbisSetupHeader.java
+ com.shabinder.jaudiotagger.audio.ogg.util.VorbisSetupHeader
+com/shabinder/jaudiotagger/audio/real/RealChunk.java
+ com.shabinder.jaudiotagger.audio.real.RealChunk
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataCueSheet.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockDataCueSheet
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTLAN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTLAN
+com/shabinder/jaudiotagger/tag/datatype/StringDateTime.java
+ com.shabinder.jaudiotagger.tag.datatype.StringDateTime
+com/shabinder/jaudiotagger/audio/generic/AudioFileModificationListener.java
+ com.shabinder.jaudiotagger.audio.generic.AudioFileModificationListener
+com/shabinder/jaudiotagger/audio/aiff/chunk/AiffCompressionType.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.AiffCompressionType
+com/shabinder/jaudiotagger/audio/mp4/Mp4InfoReader.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4InfoReader
+com/shabinder/jaudiotagger/tag/asf/AsfTag.java
+ com.shabinder.jaudiotagger.tag.asf.AsfTag
+ com.shabinder.jaudiotagger.tag.asf.AsfTag$1
+ com.shabinder.jaudiotagger.tag.asf.AsfTag$AsfFieldIterator
+com/shabinder/jaudiotagger/audio/dsf/FmtChunk.java
+ com.shabinder.jaudiotagger.audio.dsf.FmtChunk
+com/shabinder/jaudiotagger/tag/FieldKey.java
+ com.shabinder.jaudiotagger.tag.FieldKey
+com/shabinder/jaudiotagger/tag/id3/ID3v1TagField.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v1TagField
+com/shabinder/jaudiotagger/tag/id3/ID3v22Frames.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v22Frames
+com/shabinder/jaudiotagger/tag/lyrics3/AbstractLyrics3.java
+ com.shabinder.jaudiotagger.tag.lyrics3.AbstractLyrics3
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWOAS.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWOAS
+com/shabinder/jaudiotagger/logging/Hex.java
+ com.shabinder.jaudiotagger.logging.Hex
+com/shabinder/jaudiotagger/utils/tree/DefaultMutableTreeNode.java
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode$1
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode$BreadthFirstEnumeration
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode$BreadthFirstEnumeration$Queue
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode$BreadthFirstEnumeration$Queue$QNode
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode$PathBetweenNodesEnumeration
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode$PostorderEnumeration
+ com.shabinder.jaudiotagger.utils.tree.DefaultMutableTreeNode$PreorderEnumeration
+com/shabinder/jaudiotagger/audio/mp4/Mp4AtomTree.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4AtomTree
+com/shabinder/jaudiotagger/tag/id3/ID3v22FieldKey.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v22FieldKey
+com/shabinder/jaudiotagger/audio/asf/data/MetadataContainerFactory.java
+ com.shabinder.jaudiotagger.audio.asf.data.MetadataContainerFactory
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyMCDI.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyMCDI
+com/shabinder/jaudiotagger/tag/datatype/TempoCode.java
+ com.shabinder.jaudiotagger.tag.datatype.TempoCode
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodySIGN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodySIGN
+com/shabinder/jaudiotagger/audio/asf/io/RandomAccessFileOutputStream.java
+ com.shabinder.jaudiotagger.audio.asf.io.RandomAccessFileOutputStream
+com/shabinder/jaudiotagger/tag/reference/ISOScript.java
+ com.shabinder.jaudiotagger.tag.reference.ISOScript
+ com.shabinder.jaudiotagger.tag.reference.ISOScript$Script
+com/shabinder/jaudiotagger/audio/wav/WavSubFormat.java
+ com.shabinder.jaudiotagger.audio.wav.WavSubFormat
+com/shabinder/jaudiotagger/audio/wav/WavOptions.java
+ com.shabinder.jaudiotagger.audio.wav.WavOptions
+com/shabinder/jaudiotagger/tag/datatype/AbstractDataTypeList.java
+ com.shabinder.jaudiotagger.tag.datatype.AbstractDataTypeList
+com/shabinder/jaudiotagger/audio/exceptions/UnableToModifyFileException.java
+ com.shabinder.jaudiotagger.audio.exceptions.UnableToModifyFileException
+com/shabinder/jaudiotagger/audio/ogg/OggVorbisCommentTagCreator.java
+ com.shabinder.jaudiotagger.audio.ogg.OggVorbisCommentTagCreator
+com/shabinder/jaudiotagger/tag/datatype/EventTimingCode.java
+ com.shabinder.jaudiotagger.tag.datatype.EventTimingCode
+com/shabinder/jaudiotagger/audio/wav/chunk/WavInfoIdentifier.java
+ com.shabinder.jaudiotagger.audio.wav.chunk.WavInfoIdentifier
+com/shabinder/jaudiotagger/audio/asf/data/AudioStreamChunk.java
+ com.shabinder.jaudiotagger.audio.asf.data.AudioStreamChunk
+com/shabinder/jaudiotagger/tag/mp4/Mp4FieldKey.java
+ com.shabinder.jaudiotagger.tag.mp4.Mp4FieldKey
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4StsdBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4StsdBox
+com/shabinder/jaudiotagger/audio/wav/chunk/WavInfoChunk.java
+ com.shabinder.jaudiotagger.audio.wav.chunk.WavInfoChunk
+com/shabinder/jaudiotagger/audio/mp4/atom/Mp4MdhdBox.java
+ com.shabinder.jaudiotagger.audio.mp4.atom.Mp4MdhdBox
+com/shabinder/jaudiotagger/audio/asf/io/RandomAccessFileInputstream.java
+ com.shabinder.jaudiotagger.audio.asf.io.RandomAccessFileInputstream
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTIPL.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTIPL
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTFLT.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTFLT
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyWCOM.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyWCOM
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyRVRB.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyRVRB
+com/shabinder/jaudiotagger/audio/aiff/AiffTagFieldKey.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffTagFieldKey
+com/shabinder/jaudiotagger/audio/aiff/AiffUtil.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffUtil
+com/shabinder/jaudiotagger/tag/datatype/ID3v2LyricLine.java
+ com.shabinder.jaudiotagger.tag.datatype.ID3v2LyricLine
+com/shabinder/jaudiotagger/tag/id3/ID3v22Tag.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v22Tag
+com/shabinder/jaudiotagger/audio/asf/util/Utils.java
+ com.shabinder.jaudiotagger.audio.asf.util.Utils
+com/shabinder/jaudiotagger/tag/reference/GenreTypes.java
+ com.shabinder.jaudiotagger.tag.reference.GenreTypes
+com/shabinder/jaudiotagger/audio/SupportedFileFormat.java
+ com.shabinder.jaudiotagger.audio.SupportedFileFormat
+com/shabinder/jaudiotagger/audio/exceptions/UnableToRenameFileException.java
+ com.shabinder.jaudiotagger.audio.exceptions.UnableToRenameFileException
+com/shabinder/jaudiotagger/audio/mp4/Mp4FileWriter.java
+ com.shabinder.jaudiotagger.audio.mp4.Mp4FileWriter
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockDataSeekTable.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockDataSeekTable
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyETCO.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyETCO
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyCTOC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyCTOC
+com/shabinder/jaudiotagger/audio/iff/IffHeaderChunk.java
+ com.shabinder.jaudiotagger.audio.iff.IffHeaderChunk
+com/shabinder/jaudiotagger/tag/datatype/NumberFixedLength.java
+ com.shabinder.jaudiotagger.tag.datatype.NumberFixedLength
+com/shabinder/jaudiotagger/tag/asf/AsfTagTextField.java
+ com.shabinder.jaudiotagger.tag.asf.AsfTagTextField
+com/shabinder/jaudiotagger/tag/asf/AbstractAsfTagImageField.java
+ com.shabinder.jaudiotagger.tag.asf.AbstractAsfTagImageField
+com/shabinder/jaudiotagger/audio/asf/AsfFileWriter.java
+ com.shabinder.jaudiotagger.audio.asf.AsfFileWriter
+com/shabinder/jaudiotagger/logging/ErrorMessage.java
+ com.shabinder.jaudiotagger.logging.ErrorMessage
+com/shabinder/jaudiotagger/tag/datatype/StringFixedLength.java
+ com.shabinder.jaudiotagger.tag.datatype.StringFixedLength
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyPRIV.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyPRIV
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTIT2.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTIT2
+com/shabinder/jaudiotagger/audio/asf/io/StreamBitratePropertiesReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.StreamBitratePropertiesReader
+com/shabinder/jaudiotagger/audio/AudioFileIO.java
+ com.shabinder.jaudiotagger.audio.AudioFileIO
+com/shabinder/jaudiotagger/tag/datatype/SynchronisedTempoCode.java
+ com.shabinder.jaudiotagger.tag.datatype.SynchronisedTempoCode
+com/shabinder/jaudiotagger/audio/aiff/chunk/TextChunk.java
+ com.shabinder.jaudiotagger.audio.aiff.chunk.TextChunk
+com/shabinder/jaudiotagger/tag/id3/reference/ID3Rating.java
+ com.shabinder.jaudiotagger.tag.id3.reference.ID3Rating
+ com.shabinder.jaudiotagger.tag.id3.reference.ID3Rating$1
+com/shabinder/jaudiotagger/tag/mp4/Mp4TagFieldSubType.java
+ com.shabinder.jaudiotagger.tag.mp4.Mp4TagFieldSubType
+com/shabinder/jaudiotagger/tag/TagTextField.java
+ com.shabinder.jaudiotagger.tag.TagTextField
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTPE4.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTPE4
+com/shabinder/jaudiotagger/audio/flac/FlacTagWriter.java
+ com.shabinder.jaudiotagger.audio.flac.FlacTagWriter
+ com.shabinder.jaudiotagger.audio.flac.FlacTagWriter$1
+ com.shabinder.jaudiotagger.audio.flac.FlacTagWriter$MetadataBlockInfo
+com/shabinder/jaudiotagger/audio/asf/data/MetadataDescriptor.java
+ com.shabinder.jaudiotagger.audio.asf.data.MetadataDescriptor
+com/shabinder/jaudiotagger/audio/flac/FlacFileReader.java
+ com.shabinder.jaudiotagger.audio.flac.FlacFileReader
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTENC.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTENC
+com/shabinder/jaudiotagger/audio/asf/io/WriteableChunkModifer.java
+ com.shabinder.jaudiotagger.audio.asf.io.WriteableChunkModifer
+com/shabinder/jaudiotagger/audio/aiff/AiffInfoReader.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffInfoReader
+ com.shabinder.jaudiotagger.audio.aiff.AiffInfoReader$1
+com/shabinder/jaudiotagger/tag/mp4/field/Mp4FieldType.java
+ com.shabinder.jaudiotagger.tag.mp4.field.Mp4FieldType
+com/shabinder/jaudiotagger/tag/mp4/Mp4TagCreator.java
+ com.shabinder.jaudiotagger.tag.mp4.Mp4TagCreator
+com/shabinder/jaudiotagger/audio/asf/data/StreamChunk.java
+ com.shabinder.jaudiotagger.audio.asf.data.StreamChunk
+com/shabinder/jaudiotagger/audio/aiff/AiffTagWriter.java
+ com.shabinder.jaudiotagger.audio.aiff.AiffTagWriter
+com/shabinder/jaudiotagger/tag/vorbiscomment/VorbisAlbumArtistSaveOptions.java
+ com.shabinder.jaudiotagger.tag.vorbiscomment.VorbisAlbumArtistSaveOptions
+com/shabinder/jaudiotagger/audio/flac/metadatablock/MetadataBlockData.java
+ com.shabinder.jaudiotagger.audio.flac.metadatablock.MetadataBlockData
+com/shabinder/jaudiotagger/audio/mp3/ByteArrayMP3AudioHeader.java
+ com.shabinder.jaudiotagger.audio.mp3.ByteArrayMP3AudioHeader
+com/shabinder/jaudiotagger/audio/ogg/util/OggCRCFactory.java
+ com.shabinder.jaudiotagger.audio.ogg.util.OggCRCFactory
+com/shabinder/jaudiotagger/tag/id3/ID3Frames.java
+ com.shabinder.jaudiotagger.tag.id3.ID3Frames
+com/shabinder/jaudiotagger/tag/datatype/AbstractStringStringValuePair.java
+ com.shabinder.jaudiotagger.tag.datatype.AbstractStringStringValuePair
+com/shabinder/jaudiotagger/tag/lyrics3/FieldFrameBodyEAL.java
+ com.shabinder.jaudiotagger.tag.lyrics3.FieldFrameBodyEAL
+com/shabinder/jaudiotagger/audio/asf/io/FileHeaderReader.java
+ com.shabinder.jaudiotagger.audio.asf.io.FileHeaderReader
+com/shabinder/jaudiotagger/tag/reference/Tagger.java
+ com.shabinder.jaudiotagger.tag.reference.Tagger
+com/shabinder/jaudiotagger/tag/id3/ID3v23PreferredFrameOrderComparator.java
+ com.shabinder.jaudiotagger.tag.id3.ID3v23PreferredFrameOrderComparator
+com/shabinder/jaudiotagger/tag/id3/framebody/FrameBodyTRSN.java
+ com.shabinder.jaudiotagger.tag.id3.framebody.FrameBodyTRSN

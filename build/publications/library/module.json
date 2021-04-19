@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.shabinder.android",
+    "module": "JAudioTagger",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8",
+      "buildId": "jnkq3vdxqng2vpr22a4ymyp6ae"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "JAudioTagger-1.0.jar",
+          "url": "JAudioTagger-1.0.jar",
+          "size": 1153291,
+          "sha512": "0c0dee9970698ff431584fcc2468259d8ace7c69d66545fdb4eb7cfedeca46270e40c56f71aa27eb3bfe71e3cea6ad433c0b4931443f641d2396ab1d24597ae1",
+          "sha256": "184f077ebdf37ad03b0937cff6c3a9bea7cb8534853c9d602b5d7ad5b03fe66a",
+          "sha1": "517b8810c5b87bdca6eb6e2dc47b4f03f74bf3bf",
+          "md5": "0cdadf69d885bcee23818a2001d43158"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 15,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "JAudioTagger-1.0.jar",
+          "url": "JAudioTagger-1.0.jar",
+          "size": 1153291,
+          "sha512": "0c0dee9970698ff431584fcc2468259d8ace7c69d66545fdb4eb7cfedeca46270e40c56f71aa27eb3bfe71e3cea6ad433c0b4931443f641d2396ab1d24597ae1",
+          "sha256": "184f077ebdf37ad03b0937cff6c3a9bea7cb8534853c9d602b5d7ad5b03fe66a",
+          "sha1": "517b8810c5b87bdca6eb6e2dc47b4f03f74bf3bf",
+          "md5": "0cdadf69d885bcee23818a2001d43158"
+        }
+      ]
+    }
+  ]
+}
