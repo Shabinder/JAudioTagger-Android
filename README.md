@@ -16,6 +16,6 @@ allprojects {
 
 ```
 dependencies {
-    implementation("com.shabinder.android:jaudiotagger:1.0")
+    implementation("com.github.Shabinder:JAudioTagger-Android:1.0")
 }
 ```
